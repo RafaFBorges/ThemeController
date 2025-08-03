@@ -1,0 +1,64 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Dependency directories
+.npm/
+.pnpm-store/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# IDEs e editores
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Configuração do sistema
+.DS_Store
+Thumbs.db
+
+# TypeScript
+*.tsbuildinfo
+
+# ESLint cache
+.eslintcache
+
+# Test coverage
+coverage/
+
+# Ambiente e variáveis
+.env
+.env.*.local
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Parcel, Vite, Next.js ou outras ferramentas de build
+.cache/
+.next/
+out/
+turbo/
+
+# Storybook
+.storybook-out/
+storybook-static/
+
+# Mac-specific
+.AppleDouble
+.LSOverride
+Icon?
+
+# Linux-specific
+*~
+
+# Windows-specific
+Desktop.ini
